@@ -57,7 +57,7 @@ StudentManagementSystem/
 
 1. Clone the repository
 
-   https://github.com/Puliteja2006/Student-Management-System
+   git clone https://github.com/Puliteja2006/Student-Management-System
   
 2. Open the project in **Apache NetBeans**
 
