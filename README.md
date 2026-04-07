@@ -153,7 +153,7 @@ This project reflects my ability to:
 Software Development Engineer | Full Stack Developer
 
 * 💻 GitHub: https://github.com/Puliteja2006
-* 🔗 LinkedIn: https://linkedin.com/in/yourprofile
+* 🔗 LinkedIn: https://www.linkedin.com/in/puli-sai-srinivasa-teja-164189326
 
 
 ## ⭐ Support:
