@@ -1,6 +1,7 @@
 # 🎓 Student Management System:
 
-A structured and data-driven system designed to efficiently manage student records, streamline academic data handling, and support scalable backend operations.
+A structured and data-driven system
+designed to efficiently manage student records, streamline academic data handling, and support scalable backend operations.
 
 
 ## 🚀 Overview:
